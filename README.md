@@ -41,9 +41,9 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
 
 [![OutOfTheWave](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/outofthewavelogo_0.png?itok=hSCyGZ4U&timestamp=1485084948)](https://www.youtube.com/watch?v=5p2Yog_XcsA)
 
-[![OutOfTheWaveMenu](https://raw.githubusercontent.com/ChloeLS/OutOfTheWave/master/OutOfTheWaveMainMenu.png)
+![OutOfTheWaveMenu](https://raw.githubusercontent.com/ChloeLS/OutOfTheWave/master/OutOfTheWaveMainMenu.png)
 
-[![OutOfTheWaveGameStill](https://raw.githubusercontent.com/ChloeLS/OutOfTheWave/master/GameStill.png)
+![OutOfTheWaveGameStill](https://raw.githubusercontent.com/ChloeLS/OutOfTheWave/master/GameStill.png)
 
 
 ## Authors
