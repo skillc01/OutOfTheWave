@@ -37,6 +37,7 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
 ## Screenshots and video
 
 [Youtube Link](https://www.youtube.com/watch?v=5p2Yog_XcsA)
+
 [![OutOfTheWave](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/outofthewavelogo_0.png?itok=hSCyGZ4U&timestamp=1485084948)](https://www.youtube.com/watch?v=5p2Yog_XcsA)
 
 ## Authors
