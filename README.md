@@ -1,4 +1,4 @@
-## OutOfTheWave
+## Out Of The Wave
 
 Two player pvp game. The aim: knock your opponent off of the map.
 
@@ -58,5 +58,5 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
 ## Acknowledgments
 
 Music in Game:
-* **Radu Andrei Adobroaie** -  *Music Creation*  -  [LinkedIn](https://github.com/radobr)
+* **Radu Andrei Adobroaie** -  *Music Creation*  -  [Github](https://github.com/radobr)
   [Global Game Jam Site](https://globalgamejam.org/users/radu)
