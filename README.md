@@ -4,9 +4,10 @@ Two player pvp game. The aim: knock your opponent off of the map.
 
 ## Getting Started
 
+Original Repository found: https://github.com/OctarineSorcerer/OutofTheWave
+
 You find need Unity version 2018.2.5f1 or later downloaded. 
 Download the zip file and extract all.
-Double click '  ' and select at which size you would like to play.
 
 Alternatively, you can click the link : https://globalgamejam.org/2017/games/out-wave
 Download the zip file and extract all.  
