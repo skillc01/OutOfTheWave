@@ -47,11 +47,11 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
 
 * **Daniel Gomme** -  *Main Game Programming*  -  [Github](https://github.com/OctarineSorcerer)
                                                   [Global Game Jam Site](https://globalgamejam.org/users/octarinesorcerer)
-* **Irina Carabella Kozeni** -  *Main Menu work*  -  [LinkedIn](https://github.com/irinack)
+* **Irina Carabella Kozeni** -  *Main Menu work*  -  [Github](https://github.com/irinack)
 [Global Game Jam Site](https://globalgamejam.org/users/irina-cara)
-* **Radu Andrei Adobroaie** -  *Music Creation*  -  [LinkedIn](https://github.com/radobr)
+* **Radu Andrei Adobroaie** -  *Music Creation*  -  [Github](https://github.com/radobr)
   [Global Game Jam Site](https://globalgamejam.org/users/radu)
-* **Sebastian Zelek** -  *Wave projectile creation*  -  [LinkedIn](https://github.com/CommisarGlad1us)
+* **Sebastian Zelek** -  *Wave projectile creation*  -  [Github](https://github.com/CommisarGlad1us)
 [Global Game Jam Site](https://globalgamejam.org/users/glad1us)
 * **Hannes Penndorf Ronsten** -  *Assets work and game programming*  -  [Global Game Jam Site](https://globalgamejam.org/users/hannes-penndorf-ronsten)
 
