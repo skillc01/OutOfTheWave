@@ -48,7 +48,7 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
 
 ## Authors
 
-* **Chloe Skillman** - *Sprite Creation and Animation* - [Github](https://github.com/ChloeLS)
+* **Chloe Skillman** - *Sprite Creation and Animation* - [Github](https://github.com/skillc01)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
                                          [Global Game Jam Site](https://globalgamejam.org/users/chloe-skillman)
 
