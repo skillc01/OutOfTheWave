@@ -52,7 +52,7 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
                                          [Global Game Jam Site](https://globalgamejam.org/users/chloe-skillman)
 
-* **Daniel Gomme** -  *Main Game Programming*  -  [Github](https://github.com/OctarineSorcerer)
+* **Daniel Gomme** -  *Main Game Programming*  -  [Github](https://github.com/OctarineSourcerer)
                                                   [Global Game Jam Site](https://globalgamejam.org/users/octarinesorcerer)
 * **Irina Carabella Kozeni** -  *Main Menu work*  -  [Github](https://github.com/irinack)
 [Global Game Jam Site](https://globalgamejam.org/users/irina-cara)
