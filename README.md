@@ -62,9 +62,3 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
                                          [LinkedIn](https://www.linkedin.com/in/sebastian-zelek/)
 [Global Game Jam Site](https://globalgamejam.org/users/glad1us)
 * **Hannes Penndorf Ronsten** -  *Assets work and game programming*  -  [Global Game Jam Site](https://globalgamejam.org/users/hannes-penndorf-ronsten)
-
-## Acknowledgments
-
-Music in Game:
-**Radu Andrei Adobroaie** -  *Music Creation*  -  [Github](https://github.com/radobr)
-  [Global Game Jam Site](https://globalgamejam.org/users/radu)
