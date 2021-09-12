@@ -57,9 +57,9 @@ Unzip the file. Once unzipped, go into the file and double click " " to play the
                                                   [Global Game Jam Site](https://globalgamejam.org/users/octarinesorcerer)
 * **Irina Carabella Kozeni** -  *Main Menu work*  -  [Github](https://github.com/irinack)
 [Global Game Jam Site](https://globalgamejam.org/users/irina-cara)
-* **Radu Andrei Adobroaie** -  *Music Creation*  -  [Github](https://github.com/radobr)
-  [Global Game Jam Site](https://globalgamejam.org/users/radu)
+* **Radu Andrei Adobroaie** -  *Music Creation*  -  [Global Game Jam Site](https://globalgamejam.org/users/radu)
 * **Sebastian Zelek** -  *Wave projectile creation*  -  [Github](https://github.com/CommisarGlad1us)
+                                         [LinkedIn](https://www.linkedin.com/in/sebastian-zelek/)
 [Global Game Jam Site](https://globalgamejam.org/users/glad1us)
 * **Hannes Penndorf Ronsten** -  *Assets work and game programming*  -  [Global Game Jam Site](https://globalgamejam.org/users/hannes-penndorf-ronsten)
 
